@@ -1,6 +1,7 @@
 -- ============================================================
 -- Lab 03: Dataset Extension — User Sessions
--- Author: Maryam
+-- Author: Maryam Jahangir
+-- Roll No: 16
 -- Date: 2026-03-05
 -- ============================================================
 
