@@ -1,0 +1,28 @@
+# Ignore PDF files (deliverables)
+*.pdf
+
+# Ignore deliverable reports
+deliverable_report.md
+Lab02_Complete.txt
+Lab03_Deliverable.md
+Lab04_Deliverable.md
+Lab05_Deliverable.md
+
+# Ignore AI learning logs
+ai_learning_log.md
+
+# Ignore reflection files
+reflection.md
+
+# Ignore R history files
+.Rhistory
+.RData
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+*.swp
+*.swo
+*~
